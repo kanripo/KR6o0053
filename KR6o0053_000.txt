@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 三彌底部論
+#+DATE: 2015-08-30 21:00:09.093054
+#+PROPERTY: JUAN 0
