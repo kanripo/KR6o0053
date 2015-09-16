@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:08.819333
+#+DATE: 2015-08-30 21:00:10.441131
 #+TITLE: 三彌底部論
 #+PROPERTY: CBETA_ID T32n1649
 #+PROPERTY: ID KR6o0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1649
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0053_T_001-0462a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1649¶
-
- 三彌底部論卷上¶
+No. 1649¶
+三彌底部論卷上¶
 ¶
-失譯人名今附秦錄¶
+失譯人名今附秦錄秦錄¶
 
 歸命一切智。我從此語。如是是人臨欲死時。¶
 成無記心。其以何業往生。答曰。有業記心惑¶

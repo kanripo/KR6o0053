@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:08.853290
+#+DATE: 2015-08-30 21:00:10.462522
 #+TITLE: 三彌底部論
 #+PROPERTY: CBETA_ID T32n1649
 #+PROPERTY: ID KR6o0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1649
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0053_T_002-0465c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 三彌底部論卷中¶
+三彌底部論卷中¶
 ¶
 失譯人名今附秦錄¶
 
@@ -308,7 +307,7 @@
 難曰。從此源本。若塵及毫端等。實有不可知¶
 者。餘人見。如天眼見毫端。¶
 
-又如地曠邊際。唯天眼者見。復如眼皮自不¶
+又如地嚝邊際。唯天眼者見。復如眼皮自不¶
 見近其者見。如海岸不可知渡。到者見。如¶
 髮毫端明眼者見。以一芥子投芥聚中。明眼¶
 者見。恒河水以一把鹽投之。唯魚近其邊知。¶
