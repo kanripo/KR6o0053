@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:09.986824
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:53
 #+TITLE: 三彌底部論
 #+PROPERTY: CBETA_ID T32n1649
 #+PROPERTY: ID KR6o0053
