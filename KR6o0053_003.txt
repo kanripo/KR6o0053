@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:08.879987
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:53
 #+TITLE: 三彌底部論
 #+PROPERTY: CBETA_ID T32n1649
 #+PROPERTY: ID KR6o0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1649
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0053_T_003-0469b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 三彌底部論卷下¶
+三彌底部論卷下¶
 ¶
 失譯人名今附秦錄¶
 

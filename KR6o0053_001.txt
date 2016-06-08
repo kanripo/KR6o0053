@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:08.819333
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:53
 #+TITLE: 三彌底部論
 #+PROPERTY: CBETA_ID T32n1649
 #+PROPERTY: ID KR6o0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1649
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0053_T_001-0462a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1649¶
-
- 三彌底部論卷上¶
+No. 1649¶
+三彌底部論卷上¶
 ¶
-失譯人名今附秦錄¶
+失譯人名今附（三）＋秦【三】＊（三）＋秦【宋】＊【元】＊【明】＊秦錄秦錄¶
 
 歸命一切智。我從此語。如是是人臨欲死時。¶
 成無記心。其以何業往生。答曰。有業記心惑¶
@@ -205,9 +204,9 @@ No.1649¶
 　此世業報竟
 　來世復應受¶
 　陰壞隨業往
-　更受異陰身
+　更受異陰身」
 #+END_VERSE
-」¶
+¶
 
 彼諸部見受業報故。是故人與陰各。如是。¶
 
@@ -259,9 +258,9 @@ No.1649¶
 「　如是正解脫
 　渡欲淤泥流¶
 　智者莫能測
-　得至無動樂
+　得至無動樂」
 #+END_VERSE
-」¶
+¶
 
 彼諸部見。佛說至無動樂故。是故人常。以是¶
 人至不動樂無陰故。是人不可知處。是故人¶
